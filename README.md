@@ -7,12 +7,14 @@ A complete web-based **Network Intrusion Detection System** built using PHP, MyS
 ---
 
 ## 📸 Demo Preview
-
-(Add your screenshots here)
-
-* 🔐 Login Page
 * 📊 Dashboard
+<img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/7e4e2cc2-d1b8-438b-a68f-dff68130be8a" />
+
 * 🚨 Intrusion Alert System
+<img width="975" height="325" alt="image" src="https://github.com/user-attachments/assets/8d963ecb-c327-476d-8674-231f5b6ee32c" />
+
+<img width="975" height="376" alt="image" src="https://github.com/user-attachments/assets/2d460765-21c7-4eee-a071-bdc02cd1aded" />
+<img width="975" height="443" alt="image" src="https://github.com/user-attachments/assets/b15770f7-510e-4d3b-af53-d0ebeea0520d" />
 
 ---
 
