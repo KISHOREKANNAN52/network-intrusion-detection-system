@@ -1,101 +1,111 @@
-<div align="center">
-<img width="1200" height="475" alt="Project Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🔐 Network Intrusion Detection System (IDS)
 
-# 🔐 Network Intrusion Detection System
+A complete web-based **Network Intrusion Detection System** built using PHP, MySQL, HTML, and CSS. This system monitors user activities, detects suspicious behavior, and logs potential security threats in real-time.
 
-A web-based **Intrusion Detection System (IDS)** developed using PHP and MySQL to monitor, detect, and log suspicious activities in real-time.
+🎓 Academic DBMS Project | 🧠 Built by Kishore Kannan | 🚀 Designed for security-focused applications
 
 ---
 
-## 🚀 Run the Project Locally
+## 📸 Demo Preview
 
-### 🔧 Prerequisites
+(Add your screenshots here)
 
-* XAMPP / WAMP Server
-* PHP (>= 7.x)
-* MySQL Database
-* Web Browser (Chrome, Edge, etc.)
+* 🔐 Login Page
+* 📊 Dashboard
+* 🚨 Intrusion Alert System
 
 ---
 
-### ⚙️ Installation Steps
+## 🚀 Features
 
-1. **Clone the repository**
+✅ User Authentication (Login System)
+✅ Real-time Activity Monitoring
+✅ Intrusion Detection & Alerts
+✅ Secure Data Logging
+✅ Admin Dashboard
+✅ Database-driven System (MySQL)
+✅ Simple & Clean UI
+✅ Scalable for security applications
 
-   ```
-   #### 1️⃣ Clone the Repository
+---
 
-```bash
+## 🛠️ Tech Stack
+
+| Technology | Usage                   |
+| ---------- | ----------------------- |
+| Frontend   | HTML5, CSS3, JavaScript |
+| Backend    | PHP                     |
+| Database   | MySQL                   |
+| Server     | XAMPP                   |
+| Tools      | VS Code, phpMyAdmin     |
+
+---
+
+## ⚙️ How to Run the Project Locally
+
+### 🔽 Clone Repository
+
+```bash id="h3k9ls"
 git clone https://github.com/KISHOREKANNAN52/network-intrusion-detection-system.git
 ```
 
-   ```
+### 📁 Move to XAMPP
 
-2. **Move project folder**
+Copy the folder to:
 
-   ```
-   Move the folder to: C:\xampp\htdocs\
-   ```
+```
+C:\xampp\htdocs\
+```
 
-3. **Start Server**
+### 🛠️ Start Server
 
-   * Open XAMPP Control Panel
-   * Start **Apache** and **MySQL**
+* Open XAMPP Control Panel
+* Start **Apache** and **MySQL**
 
-4. **Setup Database**
+### 🗄️ Setup Database
 
-   * Open **phpMyAdmin**
-   * Create a database (e.g., `ids`)
-   * Import:
+* Open **phpMyAdmin**
+* Create a database (e.g., `ids`)
+* Import:
 
-     ```
-     database/ids.sql
-     ```
+```
+database/ids.sql
+```
 
-5. **Run the Project**
+### 🌐 Run Project
 
-   ```
-   https://github.com/KISHOREKANNAN52/network-intrusion-detection-system
-   ```
+Open browser and go to:
 
----
-
-## 📸 Screenshots
-<img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/e84e7539-1da9-4f0a-933e-d527d140b054" />
-
-### 🔐 Login Page
-<img width="975" height="325" alt="image" src="https://github.com/user-attachments/assets/fd77b6af-3c97-43a2-9d7c-c50e6047fd3e" />
-
-
-
-### 📊 Dashboard
-
-<img width="975" height="376" alt="image" src="https://github.com/user-attachments/assets/53797648-edc8-4869-a1bd-74ede26219d3" />
-
-
-### 🚨 Intrusion Alerts
-
-<img width="975" height="443" alt="image" src="https://github.com/user-attachments/assets/25754d01-6b96-4901-a97e-f9941aed9707" />
-
+```
+http://localhost/network-intrusion-detection-system
+```
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Future Improvements
+
+✅ Machine Learning-based intrusion detection
+✅ Email/SMS alert system
+⌛ Advanced analytics dashboard
+⌛ Cloud-based monitoring
+⌛ Role-based access system
+
+---
+
+## 👨‍💻 Developed by
 
 **Kishore Kannan**
+🎓 B.Tech Student
 
 ---
 
-## 📌 Features
-
-* Real-time intrusion detection
-* Activity monitoring and logging
-* Alert system for suspicious actions
-* Secure authentication system
-
----
-
-## 📄 License
+## 📃 License
 
 This project is licensed under the MIT License.
+
+---
+
+## 💡 Quote
+
+“Security is not a product, but a process.” 🔐
+Built with ❤️ for learning and real-world cybersecurity applications.
