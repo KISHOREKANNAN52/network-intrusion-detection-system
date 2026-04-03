@@ -24,7 +24,12 @@ A web-based **Intrusion Detection System (IDS)** developed using PHP and MySQL t
 1. **Clone the repository**
 
    ```
-   git clone https://github.com/your-username/network-intrusion-detection-system.git
+   #### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/KISHOREKANNAN52/network-intrusion-detection-system.git
+```
+
    ```
 
 2. **Move project folder**
@@ -51,7 +56,7 @@ A web-based **Intrusion Detection System (IDS)** developed using PHP and MySQL t
 5. **Run the Project**
 
    ```
-   http://localhost/network-intrusion-detection-system
+   https://github.com/KISHOREKANNAN52/network-intrusion-detection-system
    ```
 
 ---
