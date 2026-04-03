@@ -71,7 +71,8 @@ A web-based **Intrusion Detection System (IDS)** developed using PHP and MySQL t
 
 ### 🚨 Intrusion Alerts
 
-![Alerts](screenshots/alert.png)
+<img width="975" height="443" alt="image" src="https://github.com/user-attachments/assets/25754d01-6b96-4901-a97e-f9941aed9707" />
+
 
 ---
 
