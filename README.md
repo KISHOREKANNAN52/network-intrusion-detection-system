@@ -48,7 +48,7 @@ A complete web-based **Network Intrusion Detection System** built using PHP, MyS
 ### 🔽 Clone Repository
 
 ```bash id="h3k9ls"
-git clone https://github.com/KISHOREKANNAN52/network-intrusion-detection-system.git
+https://github.com/KISHOREKANNAN52/network-intrusion-detection-system.git
 ```
 
 ### 📁 Move to XAMPP
