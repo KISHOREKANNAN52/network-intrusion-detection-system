@@ -1,0 +1,5 @@
+{
+  "name": "Network Intrusion Detection",
+  "description": "Advanced Network Intrusion Detection System using Gradient Boosting. Features real-time monitoring, file-based log analysis, and detailed threat analytics.",
+  "requestFramePermissions": []
+}
